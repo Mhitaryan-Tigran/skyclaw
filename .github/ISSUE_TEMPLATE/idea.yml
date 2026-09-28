@@ -1,0 +1,16 @@
+name: Idea
+description: Something the app should do.
+title: "Idea: "
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you want
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What you are trying to do that the app makes hard today.

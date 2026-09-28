@@ -36,7 +36,7 @@
 
 ## Play
 
-Drag him, throw him at the walls, stack one on another. Jelly or bouncy physics, three sizes, across every monitor.
+Drag him, throw him at the walls and at each other, stack one on another. Three sizes, across every monitor.
 
 ## Install
 

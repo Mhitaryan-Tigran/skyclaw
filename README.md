@@ -3,10 +3,6 @@
 <p align="center">Clawd, the Claude Code mascot, on your macOS desktop.<br>One pixel crab for every Claude Code session, doing what that session does.</p>
 
 <p align="center">
-  <img src="docs/demo.png" width="800" alt="Four Clawds walk in from the left, get to work and walk off">
-</p>
-
-<p align="center">
   <img src="docs/video.gif" width="800" alt="SkyClaw in twenty seconds">
 </p>
 

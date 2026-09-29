@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/skyclaw.mp4"><img src="docs/video.jpg" width="800" alt="SkyClaw in twenty seconds"></a><br>
-  <sub>Click for the twenty-second video</sub>
+  <img src="docs/video.gif" width="800" alt="SkyClaw in twenty seconds">
 </p>
 
 ## Work

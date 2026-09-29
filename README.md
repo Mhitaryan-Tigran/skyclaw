@@ -6,6 +6,11 @@
   <img src="docs/demo.png" width="800" alt="Four Clawds walk in from the left, get to work and walk off">
 </p>
 
+<p align="center">
+  <a href="docs/skyclaw.mp4"><img src="docs/video.jpg" width="800" alt="SkyClaw in twenty seconds"></a><br>
+  <sub>Click for the twenty-second video</sub>
+</p>
+
 ## Work
 
 <table>
